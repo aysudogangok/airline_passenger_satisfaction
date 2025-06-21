@@ -1,12 +1,15 @@
 **Veri Seti Hakkında**
+
 ------------------------------------------------------------------------------
 
 Veri Seti Adı: Airline Passenger Satisfaction Dataset (Havayolu Yolcu Memnuniyeti Veri Seti)
+
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 
 İçerik: Bu veri seti, bir havayolu şirketinin yolcu memnuniyeti üzerine yaptığı bir anketin sonuçlarını içeriyor. Her bir satır bir yolcuyu temsil ediyor ve o yolcunun hem uçuşla ilgili özellikleri (uçuş mesafesi, sınıf, gecikme süresi vs.) hem de uçuş sırasında aldığı hizmetlere dair değerlendirmeleri bulunuyor.
+
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
