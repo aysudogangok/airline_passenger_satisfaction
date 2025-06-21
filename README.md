@@ -1,15 +1,22 @@
-# airline_passenger_satisfaction
-kizbasina ve patika.dev ortaklığında yürütülen data analyst bootcamp - birinci final ödevi
+**Veri Seti Hakkında**
 
-Veri Hakkında
+Veri Seti Adı: Airline Passenger Satisfaction Dataset (Havayolu Yolcu Memnuniyeti Veri Seti)
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
-Airline Passenger Satisfaction Dataset (Havayolu Yolcu Memnuniyeti Veri Seti)
-
-Bu veri seti, bir havayolu şirketinin yolcu memnuniyeti üzerine yaptığı bir anketin sonuçlarını içeriyor. Her bir satır bir yolcuyu temsil ediyor ve o yolcunun hem uçuşla ilgili özellikleri (uçuş mesafesi, sınıf, gecikme süresi vs.) hem de uçuş sırasında aldığı hizmetlere dair değerlendirmeleri bulunuyor.
+İçerik: Bu veri seti, bir havayolu şirketinin yolcu memnuniyeti üzerine yaptığı bir anketin sonuçlarını içeriyor. Her bir satır bir yolcuyu temsil ediyor ve o yolcunun hem uçuşla ilgili özellikleri (uçuş mesafesi, sınıf, gecikme süresi vs.) hem de uçuş sırasında aldığı hizmetlere dair değerlendirmeleri bulunuyor.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 **Bağımlı Değişken:**
 
 satisfaction → Yolcu memnuniyeti (satisfied: Memnun, neutral or dissatisfied: Memnun olmayan veya kararsız)
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 **Bağımsız Değişkenler:**
 
