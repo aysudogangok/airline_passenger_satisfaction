@@ -44,3 +44,4 @@ Baggage handling → Bagaj Taşıma Hizmeti (0–5 arası skor)
 Checkin service → Check-in Hizmeti (0–5 arası skor)  
 Inflight service → Uçak İçi Genel Hizmet Kalitesi (0–5 arası skor)  
 Cleanliness → Temizlik (0–5 arası skor)  
+------------------------------------------------------------------------------
