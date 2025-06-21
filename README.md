@@ -25,11 +25,15 @@ Customer Type → Müşteri türü (Loyal Customer: Sadık Müşteri, disloyal C
 Type of Travel → Seyahat türü (Business travel: İş seyahati, Personal Travel: Kişisel seyahat)
 Class → Uçuş sınıfı (Business: Birinci sınıf, Eco: Ekonomi sınıfı, Eco Plus: Ekonomi Plus)
 Age → Yaş  
-------------------------------------------------------------------------------
+
+*** *** *** *** ***
+
 Flight Distance → Uçuş Mesafesi (km cinsinden)  
 Departure Delay in Minutes → Kalkış Gecikmesi (Dakika cinsinden)  
 Arrival Delay in Minutes → Varış Gecikmesi (Dakika cinsinden)
-------------------------------------------------------------------------------
+
+*** *** *** *** ***
+
 Inflight wifi service → Uçak içi Wi-Fi hizmeti (0–5 arası skor)  
 Departure/Arrival time convenient → Kalkış/Varış Zamanının Uygunluğu (0–5 arası skor)  
 Ease of Online booking → Online Rezervasyon Kolaylığı (0–5 arası skor)  
@@ -44,4 +48,5 @@ Baggage handling → Bagaj Taşıma Hizmeti (0–5 arası skor)
 Checkin service → Check-in Hizmeti (0–5 arası skor)  
 Inflight service → Uçak İçi Genel Hizmet Kalitesi (0–5 arası skor)  
 Cleanliness → Temizlik (0–5 arası skor)  
-------------------------------------------------------------------------------
+
+*** *** *** *** ***
